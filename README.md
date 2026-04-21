@@ -3,9 +3,6 @@
 Analizë statistikore dhe probabilistike e kampionatit të La Liga
 duke përdorur të dhëna historike nga 21 sezone (2004–2025).
 
-Projekti është ndërtuar si portofol personal në fushën e **Data Science**,
-duke kombinuar statistikë klasike, procese probabilistike dhe machine learning.
-
 ---
 
 ## 🎯 Qëllimi i Projektit
@@ -23,7 +20,6 @@ duke kombinuar statistikë klasike, procese probabilistike dhe machine learning.
 
 Të dhënat janë mbledhur manualisht nga:
 - **FBref.com** — statistika të avancuara
-- **Wikipedia** — tabelat historike të La Liga
 
 | Burimi | Sezone | Kolonat Kryesore |
 |--------|--------|-----------------|
